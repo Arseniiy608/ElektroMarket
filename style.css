@@ -1,0 +1,380 @@
+.het {
+    width: 100%;
+    height: 400px;
+    object-fit: cover;
+}
+.search {
+  display: flex;
+  margin: 0 auto;
+  width: 300px;
+ top: 15px;
+  position: relative;
+  z-index: 1001;
+}
+.search-input {
+    border-radius: 5px 0 0 5px;
+}
+.search-button {
+    border-radius: 0 5px 5px 0;
+    background-color: rgb(40, 39, 39);
+color: #fff2f2;
+}
+.had {
+    height: 60px;
+    background-color: rgb(40, 39, 39);
+}
+.cays {
+    top: 15px;
+   margin-left: 550px;
+   border: white 1px solid;
+   border-radius: 50px;
+   color: white;
+   background-color: rgb(40, 39, 39);
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   text-decoration: none;
+}
+.swiper {
+    width: 100%;
+    position: relative;
+}
+.swiper-button-prev {
+   color: black;
+}
+.swiper-button-next {
+   color: black;
+}
+.hep {
+    position: absolute;
+    top: 60px;
+    left: 25px;
+   
+}
+.hepone {
+    position: absolute;
+    top: 180px;
+    left: 25px;
+    font-family: 'Balsamiq Sans', cursive;
+}
+.heptwo { 
+    position: absolute;
+    top: 235px;
+    left: 25px;
+    font-family: 'Balsamiq Sans', cursive;
+}
+.hepthree { 
+    position: absolute;
+    top: 300px;
+    left: 25px;
+    font-family: 'Balsamiq Sans', cursive;
+}
+
+.zagolov {
+margin-top: 35px;
+margin-bottom: 25px;
+}
+
+    .white {
+        color: rgb(0, 0, 0);
+    }
+    .yellow {
+        color: rgb(255, 187, 0);
+    }
+    .zag {
+        font-family: 'Balsamiq Sans', cursive;
+        font-size: 30px;
+        
+    }
+    html {
+        scroll-behavior: smooth;
+    }
+  .cards {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 20px;
+    padding: 20px;
+   
+  }
+  .pictures1 {
+    width: 150px;
+    height: 150px;
+    display: block;
+  margin: 0 auto;
+  margin-top: 15px;
+
+  }
+  .pictures2 {
+    width: 150px;
+    height: 150px;
+  display: block;
+  margin: 0 auto;
+  margin-top: 15px;
+
+  }
+  .pictures3 {
+    width: 130px;
+    height: 150px;
+  display: block;
+  margin: 0 auto;
+  margin-top: 15px;
+
+  }
+    .pictures4 {
+    width: 170px;
+    height: 150px;
+  display: block;
+  margin: 0 auto;
+  margin-top: 15px;
+  }
+    .pictures5 {
+    width: 150px;
+    height: 150px;
+  display: block;
+  margin: 0 auto;
+  margin-top: 15px;
+  }
+  .card-price {
+    color: rgb(96, 129, 230);
+    font-family: 'Balsamiq Sans', cursive;
+  }
+   .pictures6 {
+    width: 100px;
+    height: 150px;
+  display: block;
+  margin: 0 auto;
+  margin-top: 15px;
+  }
+  .swiper-slide {
+    display: flex;
+    justify-content: center;
+    width: 200px;
+    height: auto;
+}
+.h1 {
+    margin-left: 30px;
+    margin-top: 30px;
+    font-size: 35px;
+    color: rgb(0, 0, 0);
+    font-family: 'Balsamiq Sans', cursive;
+    text-align: center;
+}
+.body {
+  min-height: 100vh;
+  margin: 0;
+  background: linear-gradient(
+    to bottom,
+      #93c5fd 0%,
+        #bfdbfe 25%,
+        #e0efff 50%,
+        #ffffff 85%
+  );
+  background-attachment: fixed;
+}
+.technolog {
+    margin-left: 30px;
+    font-size: 25px;
+    color: rgb(0, 0, 0);
+    font-family: 'Balsamiq Sans', cursive;
+text-align: center;
+  }
+.card-text {
+    font-family: 'Balsamiq Sans', cursive;
+}
+.techno {
+    margin-left: 30px;
+    font-size: 20px;
+    color: rgb(0, 0, 0);
+    font-family: 'Balsamiq Sans', cursive;
+}
+.about {
+    text-align: center;
+    font-size: 25px;
+    color: rgb(0, 0, 0);
+    font-family: 'Balsamiq Sans', cursive;
+}
+.perevag {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+
+    font-size: 20px;
+    color: rgb(0, 0, 0);
+    font-family: 'Balsamiq Sans', cursive;
+}
+.perevag1 {
+  margin-left: 30px;
+}
+.perevag3 {
+  margin-right: 30px;
+}
+.review-textarea {
+    width: 100%;
+    height: 50px;
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    resize: none;
+}
+.review-input {
+    width: 100%;
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+  margin-bottom: 15px;
+}
+.search-but{
+   position: absolute;
+    left: -45px;
+    transition: 0.4s;
+    margin-top: 57px;
+     border-radius: 0 5px 5px 0;
+    background-color: rgb(40, 39, 39);
+color: #fff2f2;
+}
+.search-but:hover {
+    left: 0;
+}
+  .pich1 {
+    width: 150px;
+    height: 150px;
+    display: block;
+  margin-left: 15px;
+  margin-top: 15px;
+
+  }
+.search-results {
+    position: absolute;
+    top: calc(100% + 8px);
+    left: 0;
+    width: 100%;
+
+    background: rgba(255, 255, 255, 0.75);
+    backdrop-filter: blur(10px);
+
+    border-radius: 12px;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.15);
+
+    z-index: 1000;
+
+    padding: 10px;
+    display: none;
+    max-height: 320px;
+    overflow-y: auto;
+}
+
+.search-results.show {
+    display: block;
+}
+
+.search-results .card {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    border: none;
+    background: transparent;
+}
+
+.search-results .card img {
+    width: 90px;
+    height: 90px;
+    object-fit: contain;
+    margin: 0;
+}
+.repley {
+    top: 5px;
+    left: 10px;
+    font-size: 20px;
+    color: rgb(0, 0, 0);
+}
+.had1 {
+  background-color: white;
+}
+.case {
+text-align: center;
+font-size: 30px;
+}
+.home {
+  text-decoration: none;
+  color: #000;
+  font-size: 17px;
+  font-family: 'Balsamiq Sans', cursive;
+}
+.cart-items {
+    gap: 20px;
+    padding: 20px;
+}
+
+.cart-card {
+    width: 220px;
+    padding: 15px;
+    border: 1px solid #ddd;
+    border-radius: 12px;
+    text-align: center;
+    background: white;
+}
+
+.cart-card img {
+    width: 100%;
+    height: 150px;
+    object-fit: contain;
+}
+
+.cart-card h3 {
+    margin-top: 10px;
+}
+.cart-items {
+  display: flex;
+  flex-direction: column;
+    color: rgb(96, 129, 230);
+  font-family: 'Balsamiq Sans', cursive;
+
+}
+.case {
+    font-family: 'Balsamiq Sans', cursive;
+    color: rgb(96, 129, 230);
+}
+.tot-price {
+font-family: 'Balsamiq Sans', cursive;
+text-align: center;
+color: rgb(96, 129, 230);
+}
+.delete-btn {
+    background: red;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    padding: 8px 15px;
+    cursor: pointer;
+}
+.delete-btn:hover {
+    background: rgb(182, 48, 48);
+    color: white;
+    border: none;
+    border-radius: 8px;
+    padding: 8px 15px;
+    cursor: pointer;
+}
+.quantity {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 15px;
+    margin: 10px;
+}
+
+.quantity button {
+    padding: 5px 12px;
+    cursor: pointer;
+    border: none;
+    border-radius: 5px;
+}
+.homes {
+    color: rgb(96, 129, 230);
+}
+.zamovitu {
+    display: block;
+    margin: 0 auto;
+}
